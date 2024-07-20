@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{3087CA7F-2CD5-469A-BC51-9B7952289B34}">
+	<children>
+		<child name="QLPN" key="{37D030EF-556D-48EF-A19E-F114D932777B}" path="QLPN\QLPN.mds" />
+	</children>
+	<testItems key="{5AEBFBB7-265B-4973-84DB-E2F395F04F69}">
+		<children>
+			<testItem key="{37D030EF-556D-48EF-A19E-F114D932777B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{E40F473A-B4D3-4C62-9997-18BF0F1D338D}" />
+	<analysis key="{1DC8CFAE-3B85-46AF-8720-807BF3C615BF}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

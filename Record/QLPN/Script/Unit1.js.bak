@@ -1,0 +1,125 @@
+﻿function Test3()
+{
+  //Clicks the 'txt_taiKhoan' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.DangNhap.txt_taiKhoan.Click(71, 33);
+  //Enters the text 'admin' in the 'Owner' text editor.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.DangNhap.txt_taiKhoan.Owner.SetText("admin");
+  //Clicks the 'txt_matKhau' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.DangNhap.txt_matKhau.Click(62, 5);
+  //Enters text in the 'Owner' text editor.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.DangNhap.txt_matKhau.Owner.SetText(Project.Variables.Password1);
+  //Clicks the 'btn_dangNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.DangNhap.btn_dangNhap.Click(76, 30);
+  //Clicks the 'btnOK' button.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.dlg.btnOK.ClickButton();
+  //Clicks the 'btn_quanLy' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.guna2GradientPanel1.btn_quanLy.Click(78, 54);
+  //Moves the mouse cursor to the menu item specified and then simulates a single click.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.StripMainMenu.Click("Quản Lý Thực Phẩm|Phiếu Nhập Thực Phẩm");
+  //Clicks the 'btn_them' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.btn_them.Click(75, 27);
+  //Enters the text '23' in the 'Owner' text editor.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.txt_maPN.Owner.SetText("23");
+  //Clicks the 'txt_tenPN' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.txt_tenPN.Click(55, 35);
+  //Enters the text 'phieu nhap 23' in the 'Owner' text editor.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.txt_tenPN.Owner.SetText("phieu nhap 23");
+  //Clicks the 'Owner' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.txt_ngayNhap.Owner.Click(41, 8);
+  //Enters the text '11/07/2023' in the 'Owner' text editor.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.txt_ngayNhap.Owner.SetText("11/07/2023");
+  //Selects the 'Nhà Cung Cấp Hải Sản' item of the 'cbo_maNCC' combo box.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.cbo_maNCC.ClickItem("Nhà Cung Cấp Hải Sản");
+  //Clicks the 'btn_luu' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.btn_luu.Click(38, 19);
+  //Clicks the 'btnYes' button.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.dlgCh_.btnYes.ClickButton();
+  //Clicks the 'btnOK' button.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.dlg.btnOK.ClickButton();
+}
+
+function Test4()
+{
+  //Moves the mouse cursor to the menu item specified and then simulates a single click.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.StripMainMenu.Click("Quản Lý Thực Phẩm|Phiếu Nhập Thực Phẩm");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(30, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(222, 9);
+  //Double-clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DblClick(175, 8);
+  //Clicks the 'dgv_phieuNhap' object with the right mouse button.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.ClickR(175, 9);
+  //Drags the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Drag(155, 9, 46, 1);
+  //Double-clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DblClick(201, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(201, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(201, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(201, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(462, 11);
+  //Drags the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Drag(403, 12, 73, -1);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(555, 15);
+  //Drags the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Drag(563, 13, 35, -1);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(543, 32);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(586, 37);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Click(45, 9);
+  //Drags the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Drag(56, 13, -70, 5);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Click(30, 12);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Click(50, 12);
+  //Drags the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Drag(57, 11, -65, -5);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object with the right mouse button.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.ClickR(18, 6);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Click(15, 10);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(604, 53);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(591, 36);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(587, 36);
+  //Clicks the 'DataGridViewTextBoxEditingControl' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl.Click(56, 14);
+  //Checks whether the 'wText' property of the Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl object equals 'NCC020    '.
+  aqObject.CheckProperty(Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl, "wText", cmpEqual, "NCC020    ");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(447, 32);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(439, 31);
+  //Checks whether the 'wText' property of the Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl object equals 'NV011     '.
+  aqObject.CheckProperty(Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl, "wText", cmpEqual, "NV011     ");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(323, 34);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(339, 36);
+  //Checks whether the 'wText' property of the Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl object equals '6/1/2000'.
+  aqObject.CheckProperty(Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl, "wText", cmpEqual, "6/1/2000");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(198, 26);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(201, 34);
+  //Checks whether the 'wText' property of the Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl object equals 'Phiếu nhập thực phẩm ngày 01/06/2000'.
+  aqObject.CheckProperty(Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl, "wText", cmpEqual, "Phiếu nhập thực phẩm ngày 01/06/2000");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(59, 28);
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(34, 33);
+  //Checks whether the 'wText' property of the Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl object equals '4         '.
+  aqObject.CheckProperty(Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.DataGridViewEditingPanel.DataGridViewTextBoxEditingControl, "wText", cmpEqual, "4         ");
+  //Clicks the 'dgv_phieuNhap' object.
+  Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel1.dgv_phieuNhap.Click(334, 7);
+}

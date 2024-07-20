@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="TC1_Them" key="{D0723748-2C5E-416D-A075-6B3400AAA162}" path="TC1_Them.js" />
+		<child name="TC2_Sua" key="{BDCA83F8-F3D5-40DE-8799-7469E665CA65}" path="TC2_Sua.js" />
+		<child name="TC6_GiaoDien" key="{73A34682-2CA8-4B52-B429-AABB109CC6E7}" path="TC6_GiaoDien.js" />
+		<child name="TC3_Xoa" key="{84CCE91E-4161-45A4-85C7-321F4685BCA5}" path="TC3_Xoa.js" />
+		<child name="TC4_LoadForm" key="{AE379117-90A4-4789-A097-91676E6B9C09}" path="TC4_LoadForm.js" />
+		<child name="TC5_CellClick" key="{08BAAFB8-30F2-4151-8900-01C8E317C5E7}" path="TC5_CellClick.js" />
+		<child name="TC_temp" key="{26467A32-4092-4115-A6E2-8AB8B65A1146}" path="TC_temp.js" />
+	</children>
+</Root>

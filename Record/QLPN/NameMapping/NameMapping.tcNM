@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{519D7F0A-5322-46A7-97B7-807A814C0346}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="devenv" Key="{816DDCB3-F9A0-4F0C-B27E-41CEA87AEE3B}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="devenv" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="HwndSource_MainWindow" Key="{90E21377-F1F1-4BB7-A96C-B923CA561FBA}">
+								<Image FileName="-1053244280" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="RootVisual.ClrClassName">
+										<Value Value="MainWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="MainWindow" Key="{E41513E2-FCD7-48BF-881D-276D29DDA640}">
+										<Image FileName="-1053244280" Left="0" Top="0" Right="1939" Bottom="1039" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="Microsoft.VisualStudio.PlatformUI.MainWindow" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="AutoHideRootControl" Key="{A7E5A147-F193-483D-A688-523426BD9A9A}" ExtendedFind="True">
+												<Image FileName="-1053244280" Left="0" Top="80" Right="1921" Bottom="991" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="Microsoft.VisualStudio.PlatformUI.Shell.Controls.AutoHideRootControl" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="DockRootControl" Key="{11F0961A-7D23-4936-85F1-EDEE2C1E1501}" ExtendedFind="True">
+														<Image FileName="-1053244280" Left="32" Top="80" Right="1888" Bottom="959" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="Microsoft.VisualStudio.PlatformUI.Shell.Controls.DockRootControl" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="DockGroupControl" Key="{C2BDDFAE-9437-4792-A8D6-91C58D2B2B0E}" ExtendedFind="True">
+																<Image FileName="-1053244280" Left="40" Top="88" Right="1882" Bottom="952" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="Microsoft.VisualStudio.PlatformUI.Shell.Controls.DockGroupControl" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="SplitteritemTabgroupChildren14Visiblechild" Key="{E07ABB01-8D7F-4799-9F40-CC6DAE3D4FA4}" ExtendedFind="True">
+																		<Image FileName="-1053244280" Left="40" Top="88" Right="445" Bottom="952" />
+																		<TypeInfo Item0="{95594D32-23A6-4230-B530-D6598FA0B8E3}" />
+																		<Properties>
+																			<Property Name="WPFControlAutomationId">
+																				<Value Value="SplitterItem" />
+																			</Property>
+																			<Property Name="WPFControlOrdinalNo">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="VsToolBar" Key="{D8829F45-D6E3-4AE8-B253-68C5DC21C827}" ExtendedFind="True">
+												<Image FileName="-1238729160" Left="11" Top="41" Right="806" Bottom="73" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="Microsoft.VisualStudio.PlatformUI.VsToolBar" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="" />
+													</Property>
+													<Property Name="WPFControlOrdinalNo">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode" Key="{878AC217-B008-4D7A-A1A1-BDCB2404C0AD}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="DangNhap" Key="{2C91487E-3755-4A77-B1EC-4848CA6A43DF}">
+								<Image FileName="-2031715472" Left="0" Top="0" Right="1039" Bottom="568" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="DangNhap" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="txt_taiKhoan" Key="{9B681CA0-C959-4C36-92F2-B686CAB85FFC}">
+										<Image FileName="-2031715472" Left="650" Top="189" Right="960" Bottom="242" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="txt_taiKhoan" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Owner" Key="{FF64D571-2797-4D79-808B-583D2A26C628}">
+												<Image FileName="-2031715472" Left="706" Top="205" Right="949" Bottom="225" />
+												<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Owner" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="txt_matKhau" Key="{A835AA4D-011D-483D-9A0B-DB6D43F16581}">
+										<Image FileName="1725814489" Left="650" Top="263" Right="960" Bottom="316" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="txt_matKhau" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Owner" Key="{EA44CD73-3D04-4300-BCCE-001AF4BF43C2}">
+												<Image FileName="1725814489" Left="699" Top="279" Right="949" Bottom="299" />
+												<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="Owner" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="btn_dangNhap" Key="{2FCF32ED-2DAE-4CCA-9AEA-F3BDAA082A84}">
+										<Image FileName="-438552685" Left="690" Top="387" Right="915" Bottom="443" />
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="btn_dangNhap" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{124D6599-CBA7-4DA3-B410-50F23CD2063C}">
+								<Image FileName="1024874804" Left="0" Top="0" Right="229" Bottom="175" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnOK" Key="{3C83FFA3-98B2-4031-ADDC-783FFFC6B150}">
+										<Image FileName="1024874804" Left="106" Top="124" Right="200" Bottom="153" />
+										<TypeInfo Item0="{CC7B8911-6483-4341-8FBF-0785DFCC4174}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static" Key="{DEE01892-8EB9-4A73-9690-B2115DF0EEBC}">
+										<Image FileName="-157876967" Left="24" Top="68" Right="140" Bottom="87" />
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm thành công" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static2" Key="{4BEB7445-1756-45DE-83C2-683E56FD04EE}">
+										<Image FileName="-40021527" Left="88" Top="80" Right="226" Bottom="99" />
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm thất bại" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static3" Key="{AAC97AB9-80E8-4E2B-8CE3-F05B367DACB5}">
+										<Image FileName="-1756491320" Left="24" Top="68" Right="129" Bottom="87" />
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Sửa thành công" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static4" Key="{55B1F0CA-0023-4648-8842-886CF6AA1B2A}">
+										<Image FileName="-1104167236" Left="24" Top="68" Right="152" Bottom="87" />
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Đã xóa thành công " />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Home" Key="{D2FF0693-1625-45F9-8811-C2B773A701C4}">
+								<Image FileName="1222180942" Left="0" Top="0" Right="1729" Bottom="821" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="Home" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="tableLayoutPanel1" Key="{8663694E-6BF3-454B-A85A-D80889AF7B25}">
+										<Image FileName="1222180942" Left="0" Top="0" Right="1729" Bottom="821" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="tableLayoutPanel1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="guna2GradientPanel1" Key="{DF0CAE7A-F536-4449-A413-B19DCEF8C7BB}">
+												<Image FileName="1222180942" Left="4" Top="4" Right="245" Bottom="818" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="guna2GradientPanel1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btn_quanLy" Key="{58CD73CB-08CC-424A-B0B6-EDB85993B07C}">
+														<Image FileName="1222180942" Left="4" Top="175" Right="245" Bottom="263" />
+														<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="btn_quanLy" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="tableLayoutPanel2" Key="{6642E7E1-004E-4670-8D29-23F110136E00}">
+												<Image FileName="-707802220" Left="253" Top="4" Right="1726" Bottom="818" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="tableLayoutPanel2" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="tableLayoutPanel3" Key="{5B94EA7D-636D-4B44-8494-87B6C4669967}">
+														<Image FileName="-707802220" Left="256" Top="45" Right="1721" Bottom="814" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="tableLayoutPanel3" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="tableLayoutPanel4" Key="{3E777687-03C0-4824-9E81-64B3F1F958D3}">
+																<Image FileName="-707802220" Left="260" Top="49" Right="1718" Bottom="810" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="tableLayoutPanel4" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tableLayoutPanel5" Key="{60DDBD1B-858E-4E53-84F3-583851537B56}">
+																		<Image FileName="-707802220" Left="264" Top="160" Right="1714" Bottom="806" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="tableLayoutPanel5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tableLayoutPanel6" Key="{85D0767E-5797-41E6-9798-123BB703019E}">
+																				<Image FileName="-707802220" Left="268" Top="164" Right="1711" Bottom="803" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tableLayoutPanel6" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panel_hienThi" Key="{D516EC9D-9D31-4982-9293-5A4EBB027750}">
+																						<Image FileName="-707802220" Left="271" Top="249" Right="1706" Bottom="799" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="panel_hienThi" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="QuanLy" Key="{859232DE-71B8-4A32-9668-A2A0597D5A81}">
+																								<Image FileName="-707802220" Left="271" Top="249" Right="1706" Bottom="799" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="QuanLy" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="tableLayoutPanel1" Key="{C181771B-B89F-4EAA-8244-66992C08D8ED}">
+																										<Image FileName="-707802220" Left="271" Top="249" Right="1706" Bottom="799" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="tableLayoutPanel1" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="pannel_hienThi" Key="{B2DAE0FA-A40B-4F6B-B264-1BA499CBC12F}">
+																												<Image FileName="1437365490" Left="275" Top="289" Right="1703" Bottom="795" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="pannel_hienThi" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="PhieuNhapThucPham" Key="{0A78AC3E-AB2C-428A-A64B-F65174A3BC7A}">
+																														<Image FileName="1437365490" Left="275" Top="289" Right="1703" Bottom="795" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="PhieuNhapThucPham" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="tableLayoutPanel1" Key="{EB6A4536-636D-4B90-9C32-DB8A096A256E}">
+																																<Image FileName="1437365490" Left="275" Top="289" Right="1703" Bottom="795" />
+																																<Properties>
+																																	<Property Name="WinFormsControlName">
+																																		<Value Value="tableLayoutPanel1" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="panel2" Key="{B00A887F-FE92-4ABE-8F65-BD359932B6DD}">
+																																		<Image FileName="1437365490" Left="1134" Top="292" Right="1699" Bottom="791" />
+																																		<Properties>
+																																			<Property Name="WinFormsControlName">
+																																				<Value Value="panel2" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="btn_them" Key="{D87D3F50-DDB9-4FC9-A70E-E6E23AF1A0EB}">
+																																				<Image FileName="1437365490" Left="1138" Top="714" Right="1273" Bottom="767" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="btn_them" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="txt_maPN" Key="{9584135C-E824-4BCF-97D6-8D7E91C521F1}">
+																																				<Image FileName="-1005229977" Left="1306" Top="384" Right="1462" Bottom="430" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="txt_maPN" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="Owner" Key="{6C61E5E1-DACD-4BF8-95BB-41EB590D0518}">
+																																						<Image FileName="-1005229977" Left="1318" Top="396" Right="1452" Bottom="416" />
+																																						<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+																																						<Properties>
+																																							<Property Name="WinFormsControlName">
+																																								<Value Value="Owner" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																			<Child Name="txt_tenPN" Key="{89DFD3B8-4CAD-4CDA-B305-DE1E2258F678}">
+																																				<Image FileName="-1245628885" Left="1306" Top="456" Right="1614" Bottom="502" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="txt_tenPN" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="Owner" Key="{8F33AAB2-0BF8-49E4-AD0A-108EB37C1C25}">
+																																						<Image FileName="-1245628885" Left="1318" Top="469" Right="1603" Bottom="489" />
+																																						<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+																																						<Properties>
+																																							<Property Name="WinFormsControlName">
+																																								<Value Value="Owner" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																			<Child Name="txt_ngayNhap" Key="{FBB743E5-6980-443D-8DDD-9ACD5C4257FE}">
+																																				<Image FileName="-463198815" Left="1306" Top="531" Right="1462" Bottom="577" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="txt_ngayNhap" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="Owner" Key="{ADDB13E3-B918-4D9F-BA3A-4DC039CB1686}">
+																																						<Image FileName="-463198815" Left="1318" Top="544" Right="1452" Bottom="564" />
+																																						<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+																																						<Properties>
+																																							<Property Name="WinFormsControlName">
+																																								<Value Value="Owner" />
+																																							</Property>
+																																						</Properties>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																			<Child Name="cbo_maNCC" Key="{BABB7FE3-4742-4F3F-B165-1B4D9116F1AD}">
+																																				<Image FileName="809833714" Left="1306" Top="640" Right="1614" Bottom="685" />
+																																				<TypeInfo Item0="{08DDB030-327C-40CD-8079-4A8A1C1D9826}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="cbo_maNCC" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="btn_luu" Key="{9A69F8AB-3EB7-4BF5-9072-62C1165A3F48}">
+																																				<Image FileName="316147469" Left="1306" Top="714" Right="1415" Bottom="767" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="btn_luu" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="cbo_maNV" Key="{2411FA1F-3073-41D3-9DE6-F21A03B97E30}">
+																																				<Image FileName="1275301835" Left="1306" Top="587" Right="1614" Bottom="632" />
+																																				<TypeInfo Item0="{08DDB030-327C-40CD-8079-4A8A1C1D9826}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="cbo_maNV" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="btn_taomoi" Key="{575BBBA7-A888-4FD7-BC63-652615F909C2}">
+																																				<Image FileName="22980483" Left="1138" Top="714" Right="1273" Bottom="767" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="btn_taomoi" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="btn_sua" Key="{AAE20912-EFC2-47C3-A9E5-C24462533B8A}">
+																																				<Image FileName="-1829567697" Left="1436" Top="714" Right="1539" Bottom="767" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="btn_sua" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="btn_xoa" Key="{1E62B2D6-E057-4B47-A8E8-4110D38E341B}">
+																																				<Image FileName="532443295" Left="1560" Top="714" Right="1650" Bottom="767" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="btn_xoa" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label1" Key="{1686C34B-4DBC-45B5-9FE6-5BA9DA66E7D9}">
+																																				<Image FileName="2077399498" Left="1156" Top="406" Right="1287" Bottom="430" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label1" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label7" Key="{A8458C6C-D70E-4FFF-B904-D825991DE5F5}">
+																																				<Image FileName="1741008168" Left="1245" Top="315" Right="1614" Bottom="354" />
+																																				<TypeInfo Item0="{8386015F-383F-466A-B549-EC58D131A1E6}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label7" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label2" Key="{79C0D575-A94F-468E-9B17-50C16FEFE702}">
+																																				<Image FileName="30227239" Left="1156" Top="479" Right="1290" Bottom="503" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label2" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label4" Key="{C6B72841-2E9A-4ED1-B192-8327A4765252}">
+																																				<Image FileName="1852512678" Left="1156" Top="545" Right="1256" Bottom="569" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label4" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label5" Key="{944E72C5-F135-4A2F-8A53-D6EB4F036414}">
+																																				<Image FileName="1852512678" Left="1156" Top="609" Right="1247" Bottom="633" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label5" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																			<Child Name="label6" Key="{7D779E76-A8BB-4ECC-8809-217A0E0C8F2A}">
+																																				<Image FileName="1852512678" Left="1156" Top="661" Right="1282" Bottom="685" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="label6" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																	<Child Name="panel1" Key="{81C77B72-DA81-4A1B-8B09-7CE6C8A09A5D}">
+																																		<Image FileName="1597117317" Left="279" Top="292" Right="1127" Bottom="791" />
+																																		<Properties>
+																																			<Property Name="WinFormsControlName">
+																																				<Value Value="panel1" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="dgv_phieuNhap" Key="{62D4E0DA-7069-4CFD-9ADB-9E6ED4C08CB8}">
+																																				<Image FileName="1597117317" Left="279" Top="292" Right="1127" Bottom="791" />
+																																				<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																																				<Properties>
+																																					<Property Name="WinFormsControlName">
+																																						<Value Value="dgv_phieuNhap" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="DataGridViewEditingPanel" Key="{BFDC132A-841D-481A-83F8-11C0B3732197}">
+																																						<Image FileName="1504842329" Left="939" Top="319" Right="1105" Bottom="345" />
+																																						<Properties>
+																																							<Property Name="ClrFullClassName">
+																																								<Value Value="System.Windows.Forms.DataGridView+DataGridViewEditingPanel" />
+																																							</Property>
+																																							<Property Name="WndCaption">
+																																								<Value Value="" />
+																																							</Property>
+																																						</Properties>
+																																						<Children>
+																																							<Child Name="DataGridViewTextBoxEditingControl" Key="{67D8707C-B6F6-420E-9D28-E5849FC07A7A}">
+																																								<Image FileName="1504842329" Left="943" Top="320" Right="1104" Bottom="344" />
+																																								<TypeInfo Item0="{11E32FE5-F8B4-4844-B862-AD0FED17C214}" />
+																																								<Properties>
+																																									<Property Name="ClrFullClassName">
+																																										<Value Value="System.Windows.Forms.DataGridViewTextBoxEditingControl" />
+																																									</Property>
+																																								</Properties>
+																																							</Child>
+																																						</Children>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="menuStrip1" Key="{6E119410-D677-47E2-915F-862A41597548}">
+																												<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="menuStrip1" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="guna2GradientPanel3" Key="{F4C971F9-0AD1-4ED2-BD50-A145F971459E}">
+																						<Image FileName="1158538726" Left="271" Top="167" Right="1706" Bottom="241" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="guna2GradientPanel3" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="btn_tieuDe" Key="{3CA09029-79C5-4C9B-8408-64E57D6A46EA}">
+																								<Image FileName="1158538726" Left="768" Top="171" Right="1183" Bottom="234" />
+																								<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="btn_tieuDe" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="guna2GradientPanel5" Key="{3179742C-B404-4F91-A5D4-A44EE9F34C2E}">
+																		<Image FileName="-2118755872" Left="264" Top="52" Right="1714" Bottom="152" />
+																		<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="guna2GradientPanel5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="guna2GradientPanel4" Key="{B56ADDFF-5934-404A-BF29-592B9BC687DA}">
+																				<Image FileName="1112060802" Left="1455" Top="67" Right="1650" Bottom="136" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="guna2GradientPanel4" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="lbl_tenNV" Key="{0852DA1C-ADDE-40DF-A883-659DFE24B493}">
+																						<Image FileName="1112060802" Left="1459" Top="92" Right="1644" Bottom="116" />
+																						<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="lbl_tenNV" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="guna2GradientPanel8" Key="{9794D965-F72C-4974-B1AE-7AC607C4C836}">
+														<Image FileName="696022274" Left="256" Top="7" Right="1721" Bottom="37" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="guna2GradientPanel8" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="guna2ControlBox2" Key="{92274860-5ECD-4E2C-89B1-AF8B91FFD38B}">
+																<Image FileName="696022274" Left="1609" Top="7" Right="1665" Bottom="37" />
+																<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="guna2ControlBox2" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgCh_" Key="{8AEB4703-E716-413F-A0F6-F82202159987}">
+								<Image FileName="244432030" Left="0" Top="0" Right="296" Bottom="199" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Chú Ý" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnYes" Key="{AC34BF4A-27A7-47C2-A28A-BB8472D31488}">
+										<Image FileName="244432030" Left="70" Top="149" Right="164" Bottom="178" />
+										<TypeInfo Item0="{CC7B8911-6483-4341-8FBF-0785DFCC4174}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Yes" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnNo" Key="{D9B6816D-70D8-4449-8794-48AD6F8AB6D7}">
+										<Image FileName="-1369191496" Left="162" Top="149" Right="256" Bottom="178" />
+										<TypeInfo Item0="{CC7B8911-6483-4341-8FBF-0785DFCC4174}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="SubclassCBListBox" Key="{4943F522-0DA2-4582-80AC-739D6811F316}">
+								<Image FileName="1437335344" Left="0" Top="0" Right="308" Bottom="753" />
+								<TypeInfo Item0="{8E99D666-33E8-451D-96AA-8FB70C7939A2}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="ComboLBox" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="ToolTipNativeWindow" Key="{57A5046A-CA25-46EA-BBEA-94E1A1BCF740}">
+								<Image FileName="67353998" Left="0" Top="0" Right="280" Bottom="25" />
+								<TypeInfo Item0="{DEC87D7C-B98F-41DA-B75A-2EF0D5F0EB10}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="WindowsForms10.tooltips_class32.app.0.141b42a_r8_ad1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{FCFF3B78-2B3D-423B-BD3A-919062C30FB0}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{4DB4874E-810E-4F40-A0FF-B4815C5B9A9F}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{297CE89C-4940-491B-8F38-E377B2D04169}">
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndTaskListThumbnailWnd" Key="{0A1F28BB-542B-4DDD-9DA6-B61D643B5312}">
+								<Image FileName="2072233490" Left="0" Top="0" Right="533" Bottom="191" />
+								<TypeInfo Item0="{DEC87D7C-B98F-41DA-B75A-2EF0D5F0EB10}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TaskListThumbnailWnd" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndTopLevelWindowForOverflowXamlIsland" Key="{1EF8D8BA-FDB8-488A-8E8C-B09992AEFAD5}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TopLevelWindowForOverflowXamlIsland" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="System tray overflow window." />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{99724174-1CF4-4DC7-A4CB-280EDAB6BD4E}">
+										<TypeInfo Item0="{39824A7A-1C15-4C59-9C39-7DAC440A2734}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{48934E3B-C545-4ADF-B8E8-D9B8C4E52AF6}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{16AEB9BB-E0F3-4845-9FCC-D1F06888BBF9}">
+								<Image FileName="505455534" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageChatgpt" Key="{3C6075D3-CD12-4C46-871A-6BEA70408D99}">
+								<Image FileName="505455534" Left="0" Top="108" Right="1919" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://chat.openai.com/c/7d1c74b2-afb0-4d56-839d-8f5995c15cbb" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formRegenerate" Key="{85ACAFCF-DC66-4873-BC41-77D064597420}">
+										<Image FileName="505455534" Left="611" Top="824" Right="1667" Bottom="977" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[.=&apos;Regenerate&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;stretch&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelRegenerate" Key="{EA07DDD1-999D-4535-8996-34FDC17717EE}">
+										<Image FileName="505455534" Left="611" Top="824" Right="1667" Bottom="898" />
+										<TypeInfo Item0="{A67DDE6D-ED7E-435C-A483-2A1F1720A748}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form/div/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeSelectedindices" Key="{337E2BBE-9E7B-44EA-8736-FFAD0B4B9816}">
+										<Image FileName="356978378" Left="987" Top="557" Right="1183" Bottom="582" />
+										<TypeInfo Item0="{A67DDE6D-ED7E-435C-A483-2A1F1720A748}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;&quot;SelectedIndices&quot;&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeChatHistory" Key="{3CF928ED-21E9-4877-B3EC-891178C2EE60}">
+										<Image FileName="-844545645" Left="0" Top="108" Right="1920" Bottom="1020" />
+										<TypeInfo Item0="{A67DDE6D-ED7E-435C-A483-2A1F1720A748}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Chat history&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;antialiased&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="firefox" Key="{B6475429-0BD4-4F2A-8F8D-0B94B452230C}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="firefox" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMozillaWindowClass" Key="{BBC14B8A-EFF3-4A33-BE7E-732E85F6A53C}">
+								<Image FileName="1654701507" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{D2B854CF-2501-4196-9BDF-BA1903593EFC}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="MozillaWindowClass" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="devenv" Owner="{816DDCB3-F9A0-4F0C-B27E-41CEA87AEE3B}">
+			<Child Name="HwndSource_MainWindow" Owner="{90E21377-F1F1-4BB7-A96C-B923CA561FBA}">
+				<Child Name="MainWindow" Owner="{E41513E2-FCD7-48BF-881D-276D29DDA640}">
+					<Child Name="AutoHideRootControl" Owner="{A7E5A147-F193-483D-A688-523426BD9A9A}">
+						<Child Name="DockRootControl" Owner="{11F0961A-7D23-4936-85F1-EDEE2C1E1501}">
+							<Child Name="DockGroupControl" Owner="{C2BDDFAE-9437-4792-A8D6-91C58D2B2B0E}">
+								<Child Name="SplitteritemTabgroupChildren14Visiblechild" Owner="{E07ABB01-8D7F-4799-9F40-CC6DAE3D4FA4}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="VsToolBar" Owner="{D8829F45-D6E3-4AE8-B253-68C5DC21C827}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode" Owner="{878AC217-B008-4D7A-A1A1-BDCB2404C0AD}">
+			<Child Name="DangNhap" Owner="{2C91487E-3755-4A77-B1EC-4848CA6A43DF}">
+				<Child Name="txt_taiKhoan" Owner="{9B681CA0-C959-4C36-92F2-B686CAB85FFC}">
+					<Child Name="Owner" Owner="{FF64D571-2797-4D79-808B-583D2A26C628}" />
+				</Child>
+				<Child Name="txt_matKhau" Owner="{A835AA4D-011D-483D-9A0B-DB6D43F16581}">
+					<Child Name="Owner" Owner="{EA44CD73-3D04-4300-BCCE-001AF4BF43C2}" />
+				</Child>
+				<Child Name="btn_dangNhap" Owner="{2FCF32ED-2DAE-4CCA-9AEA-F3BDAA082A84}" />
+			</Child>
+			<Child Name="dlg" Owner="{124D6599-CBA7-4DA3-B410-50F23CD2063C}">
+				<Child Name="btnOK" Owner="{3C83FFA3-98B2-4031-ADDC-783FFFC6B150}" />
+				<Child Name="Static" Owner="{DEE01892-8EB9-4A73-9690-B2115DF0EEBC}" />
+				<Child Name="Static2" Owner="{4BEB7445-1756-45DE-83C2-683E56FD04EE}" />
+				<Child Name="Static3" Owner="{AAC97AB9-80E8-4E2B-8CE3-F05B367DACB5}" />
+				<Child Name="Static4" Owner="{55B1F0CA-0023-4648-8842-886CF6AA1B2A}" />
+			</Child>
+			<Child Name="Home" Owner="{D2FF0693-1625-45F9-8811-C2B773A701C4}">
+				<Child Name="tableLayoutPanel1" Owner="{8663694E-6BF3-454B-A85A-D80889AF7B25}">
+					<Child Name="guna2GradientPanel1" Owner="{DF0CAE7A-F536-4449-A413-B19DCEF8C7BB}">
+						<Child Name="btn_quanLy" Owner="{58CD73CB-08CC-424A-B0B6-EDB85993B07C}" />
+					</Child>
+					<Child Name="tableLayoutPanel2" Owner="{6642E7E1-004E-4670-8D29-23F110136E00}">
+						<Child Name="tableLayoutPanel3" Owner="{5B94EA7D-636D-4B44-8494-87B6C4669967}">
+							<Child Name="tableLayoutPanel4" Owner="{3E777687-03C0-4824-9E81-64B3F1F958D3}">
+								<Child Name="tableLayoutPanel5" Owner="{60DDBD1B-858E-4E53-84F3-583851537B56}">
+									<Child Name="tableLayoutPanel6" Owner="{85D0767E-5797-41E6-9798-123BB703019E}">
+										<Child Name="panel_hienThi" Owner="{D516EC9D-9D31-4982-9293-5A4EBB027750}">
+											<Child Name="QuanLy" Owner="{859232DE-71B8-4A32-9668-A2A0597D5A81}">
+												<Child Name="tableLayoutPanel1" Owner="{C181771B-B89F-4EAA-8244-66992C08D8ED}">
+													<Child Name="pannel_hienThi" Owner="{B2DAE0FA-A40B-4F6B-B264-1BA499CBC12F}">
+														<Child Name="PhieuNhapThucPham" Owner="{0A78AC3E-AB2C-428A-A64B-F65174A3BC7A}">
+															<Child Name="tableLayoutPanel1" Owner="{EB6A4536-636D-4B90-9C32-DB8A096A256E}">
+																<Child Name="panel2" Owner="{B00A887F-FE92-4ABE-8F65-BD359932B6DD}">
+																	<Child Name="btn_them" Owner="{D87D3F50-DDB9-4FC9-A70E-E6E23AF1A0EB}" />
+																	<Child Name="txt_maPN" Owner="{9584135C-E824-4BCF-97D6-8D7E91C521F1}">
+																		<Child Name="Owner" Owner="{6C61E5E1-DACD-4BF8-95BB-41EB590D0518}" />
+																	</Child>
+																	<Child Name="txt_tenPN" Owner="{89DFD3B8-4CAD-4CDA-B305-DE1E2258F678}">
+																		<Child Name="Owner" Owner="{8F33AAB2-0BF8-49E4-AD0A-108EB37C1C25}" />
+																	</Child>
+																	<Child Name="txt_ngayNhap" Owner="{FBB743E5-6980-443D-8DDD-9ACD5C4257FE}">
+																		<Child Name="Owner" Owner="{ADDB13E3-B918-4D9F-BA3A-4DC039CB1686}" />
+																	</Child>
+																	<Child Name="cbo_maNCC" Owner="{BABB7FE3-4742-4F3F-B165-1B4D9116F1AD}" />
+																	<Child Name="btn_luu" Owner="{9A69F8AB-3EB7-4BF5-9072-62C1165A3F48}" />
+																	<Child Name="cbo_maNV" Owner="{2411FA1F-3073-41D3-9DE6-F21A03B97E30}" />
+																	<Child Name="btn_taomoi" Owner="{575BBBA7-A888-4FD7-BC63-652615F909C2}" />
+																	<Child Name="btn_sua" Owner="{AAE20912-EFC2-47C3-A9E5-C24462533B8A}" />
+																	<Child Name="btn_xoa" Owner="{1E62B2D6-E057-4B47-A8E8-4110D38E341B}" />
+																	<Child Name="label1" Owner="{1686C34B-4DBC-45B5-9FE6-5BA9DA66E7D9}" />
+																	<Child Name="label7" Owner="{A8458C6C-D70E-4FFF-B904-D825991DE5F5}" />
+																	<Child Name="label2" Owner="{79C0D575-A94F-468E-9B17-50C16FEFE702}" />
+																	<Child Name="label4" Owner="{C6B72841-2E9A-4ED1-B192-8327A4765252}" />
+																	<Child Name="label5" Owner="{944E72C5-F135-4A2F-8A53-D6EB4F036414}" />
+																	<Child Name="label6" Owner="{7D779E76-A8BB-4ECC-8809-217A0E0C8F2A}" />
+																</Child>
+																<Child Name="panel1" Owner="{81C77B72-DA81-4A1B-8B09-7CE6C8A09A5D}">
+																	<Child Name="dgv_phieuNhap" Owner="{62D4E0DA-7069-4CFD-9ADB-9E6ED4C08CB8}">
+																		<Child Name="DataGridViewEditingPanel" Owner="{BFDC132A-841D-481A-83F8-11C0B3732197}">
+																			<Child Name="DataGridViewTextBoxEditingControl" Owner="{67D8707C-B6F6-420E-9D28-E5849FC07A7A}" />
+																		</Child>
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+													<Child Name="menuStrip1" Owner="{6E119410-D677-47E2-915F-862A41597548}" />
+												</Child>
+											</Child>
+										</Child>
+										<Child Name="guna2GradientPanel3" Owner="{F4C971F9-0AD1-4ED2-BD50-A145F971459E}">
+											<Child Name="btn_tieuDe" Owner="{3CA09029-79C5-4C9B-8408-64E57D6A46EA}" />
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="guna2GradientPanel5" Owner="{3179742C-B404-4F91-A5D4-A44EE9F34C2E}">
+									<Child Name="guna2GradientPanel4" Owner="{B56ADDFF-5934-404A-BF29-592B9BC687DA}">
+										<Child Name="lbl_tenNV" Owner="{0852DA1C-ADDE-40DF-A883-659DFE24B493}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="guna2GradientPanel8" Owner="{9794D965-F72C-4974-B1AE-7AC607C4C836}">
+							<Child Name="guna2ControlBox2" Owner="{92274860-5ECD-4E2C-89B1-AF8B91FFD38B}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="dlgCh_" Owner="{8AEB4703-E716-413F-A0F6-F82202159987}">
+				<Child Name="btnYes" Owner="{AC34BF4A-27A7-47C2-A28A-BB8472D31488}" />
+				<Child Name="btnNo" Owner="{D9B6816D-70D8-4449-8794-48AD6F8AB6D7}" />
+			</Child>
+			<Child Name="SubclassCBListBox" Owner="{4943F522-0DA2-4582-80AC-739D6811F316}" />
+			<Child Name="ToolTipNativeWindow" Owner="{57A5046A-CA25-46EA-BBEA-94E1A1BCF740}" />
+		</Child>
+		<Child Name="explorer" Owner="{FCFF3B78-2B3D-423B-BD3A-919062C30FB0}">
+			<Child Name="wndShell_TrayWnd" Owner="{4DB4874E-810E-4F40-A0FF-B4815C5B9A9F}">
+				<Child Name="DesktopWindowXamlSource" Owner="{297CE89C-4940-491B-8F38-E377B2D04169}" />
+			</Child>
+			<Child Name="wndTaskListThumbnailWnd" Owner="{0A1F28BB-542B-4DDD-9DA6-B61D643B5312}" />
+			<Child Name="wndTopLevelWindowForOverflowXamlIsland" Owner="{1EF8D8BA-FDB8-488A-8E8C-B09992AEFAD5}">
+				<Child Name="DesktopWindowXamlSource" Owner="{99724174-1CF4-4DC7-A4CB-280EDAB6BD4E}" />
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{48934E3B-C545-4ADF-B8E8-D9B8C4E52AF6}">
+			<Child Name="BrowserWindow" Owner="{16AEB9BB-E0F3-4845-9FCC-D1F06888BBF9}" />
+			<Child Name="pageChatgpt" Owner="{3C6075D3-CD12-4C46-871A-6BEA70408D99}">
+				<Child Name="formRegenerate" Owner="{85ACAFCF-DC66-4873-BC41-77D064597420}">
+					<Child Name="panelRegenerate" Owner="{EA07DDD1-999D-4535-8996-34FDC17717EE}" />
+				</Child>
+				<Child Name="textnodeSelectedindices" Owner="{337E2BBE-9E7B-44EA-8736-FFAD0B4B9816}" />
+				<Child Name="textnodeChatHistory" Owner="{3CF928ED-21E9-4877-B3EC-891178C2EE60}" />
+			</Child>
+		</Child>
+		<Child Name="firefox" Owner="{B6475429-0BD4-4F2A-8F8D-0B94B452230C}">
+			<Child Name="wndMozillaWindowClass" Owner="{BBC14B8A-EFF3-4A33-BE7E-732E85F6A53C}" />
+		</Child>
+	</LogicalNodes>
+</Root>

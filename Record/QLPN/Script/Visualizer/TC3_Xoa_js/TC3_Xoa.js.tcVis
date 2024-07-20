@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{84CCE91E-4161-45A4-85C7-321F4685BCA5}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="23" kind="0" dateTime="45239.3178472222" objectName="Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.Home.tableLayoutPanel1.tableLayoutPanel2.tableLayoutPanel3.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.panel_hienThi.QuanLy.tableLayoutPanel1.pannel_hienThi.PhieuNhapThucPham.tableLayoutPanel1.panel2.btn_xoa" objectLeft="1560" objectTop="714" objectRight="1650" objectBottom="767" clickPointX="1575" clickPointY="744" imageFileName="tcvi253261875180282.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="25" kind="0" dateTime="45239.3179050926" objectName="Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.dlgCh_.btnYes" objectLeft="58" objectTop="149" objectRight="152" objectBottom="178" clickPointX="120" clickPointY="159" imageFileName="tcvi253266687180285.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="29" kind="0" dateTime="45239.3180092593" objectName="Aliases.DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode.dlg.btnOK" objectLeft="76" objectTop="124" objectRight="170" objectBottom="153" clickPointX="128" clickPointY="134" imageFileName="tcvi253276234180287.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
